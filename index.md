@@ -1,4 +1,7 @@
 # Header 1
+``` javascript
+var myVar = "Hello, world!";
+```
 
 ## Header 2
 

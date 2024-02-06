@@ -4,6 +4,9 @@ var myVar = "Hello, world!";
 ```
 
 ## Header 2
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 ### Header 3
 
